@@ -1,0 +1,68 @@
+{
+  "nurses": [
+    {
+      "name": "Meera",
+      "role": "General Home Care Nurse",
+      "rating": 4.9,
+      "distance": "1.2 km away",
+      "price": "₹600/hour",
+      "image": "https://i.pinimg.com/736x/42/96/46/429646366c50688783ed4239528f7e95.jpg"
+    },
+    {
+      "name": "Riya Sharma",
+      "role": "Elderly Care Specialist",
+      "rating": 4.8,
+      "distance": "2.5 km away",
+      "price": "₹750/hour",
+      "image": "https://i.pinimg.com/736x/a3/4f/96/a34f968ab546da32e3d2a7a542655e6a.jpg"
+    },
+    {
+      "name": "Aarav Patel",
+      "role": "Post-Surgery Care Specialist",
+      "rating": 4.7,
+      "distance": "3.0 km away",
+      "price": "₹900/hour",
+      "image": "https://i.pinimg.com/736x/59/8c/80/598c809632f9de89259c069ef1d9bee8.jpg"
+    },
+    {
+      "name": "Neha Kapoor",
+      "role": "Child Care Nurse",
+      "rating": 4.6,
+      "distance": "4.1 km away",
+      "price": "₹650/hour",
+      "image": "https://i.pinimg.com/736x/ad/6c/b0/ad6cb07e44a5e63ffc89d7723b181052.jpg"
+    },
+    {
+      "name": "Meera",
+      "role": "General Home Care Nurse",
+      "rating": 4.9,
+      "distance": "1.2 km away",
+      "price": "₹600/hour",
+      "image": "https://img.icons8.com/color/96/nurse-female.png"
+    },
+    {
+      "name": "Riya Sharma",
+      "role": "Elderly Care Specialist",
+      "rating": 4.8,
+      "distance": "2.5 km away",
+      "price": "₹750/hour",
+      "image": "https://img.icons8.com/color/96/user-female-circle.png"
+    },
+    {
+      "name": "Aarav Patel",
+      "role": "Post-Surgery Care Specialist",
+      "rating": 4.7,
+      "distance": "3.0 km away",
+      "price": "₹900/hour",
+      "image": "https://img.icons8.com/color/96/doctor-male.png"
+    },
+    {
+      "name": "Neha Kapoor",
+      "role": "Child Care Nurse",
+      "rating": 4.6,
+      "distance": "4.1 km away",
+      "price": "₹650/hour",
+      "image": "https://img.icons8.com/color/96/nurse-female.png"
+    }
+  ]
+}
